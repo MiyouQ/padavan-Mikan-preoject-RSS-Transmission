@@ -1,4 +1,5 @@
 这是一个在padavan路由上运行RSS订阅Transmission下载蜜柑计划新番的简易脚本。
+免去任何繁琐的插件安装，只需开启自带的Transmission
 
 理论上通用所有支持脚本的设备包含且不限于openwrt，ddwrt，tomato，群辉，梅林等，只需修改对应的<transmission/watch>目录
 理论上支持所有.torrent(非磁链)下载站
