@@ -8,8 +8,10 @@
 
 保存文件后在Crontab里面设置定时即可开启全自动订阅下载
 
-RSS_LINKS项内每行一个订阅链接
+RSS_LINKS项内每行一个订阅链接自行修改成自己需要下的番
 
 已下载的种子记录在/media/<U盘>/rss/downloaded_files.txt内
 
 删除/mnt/transmission/watch内的种子文件不会影响重复下载检测
+
+此项目不会有后续维护，因为我只是拿它来偷懒用路由器自动下新番的而已
